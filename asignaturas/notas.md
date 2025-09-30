@@ -6,3 +6,7 @@ Asignaturas DAM2º
 - Programacion multimedia y dispositivos moviles
 - Sistemas de gestion empresarial
 - Optativa
+Tareas Pendientes:
+- Empezar el proyecto Integrado
+- Terminar tarea de Git
+- Terminar tarea de gestión empresarial
