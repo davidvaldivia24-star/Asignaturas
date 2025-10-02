@@ -1,0 +1,1 @@
+Se creo el archivo notas.md tanto en main como feature-conflicto escribiendo en la misma linea del documento cosas distintas, esto hace que entre en conflicto al intentar fusionar las ramas con merge. He editado el archivo donde te muestra las dos versiones que se ha puesto y tu decides con cual te queda, haciendo finalmente un commit y dejarlo actualizado.
