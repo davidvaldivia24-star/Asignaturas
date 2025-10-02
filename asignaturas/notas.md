@@ -14,4 +14,6 @@ Tareas Pendientes:
 - flutter
 - REPASANDO CONCEPTO DE GIT
 - PRACTICO HACIENDO EJERCICIOS
----Practica6.1
+
+-practica6
+
