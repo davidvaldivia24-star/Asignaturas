@@ -12,3 +12,4 @@ Tareas Pendientes:
 - Terminar tarea de gestión empresarial
 - Ejercicios programacion
 - flutter
+- REPASANDO CONCEPTO DE GIT
