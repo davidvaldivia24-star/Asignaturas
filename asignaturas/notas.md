@@ -13,3 +13,4 @@ Tareas Pendientes:
 - Ejercicios programacion
 - flutter
 - REPASANDO CONCEPTO DE GIT
+- PRACTICO HACIENDO EJERCICIOS
